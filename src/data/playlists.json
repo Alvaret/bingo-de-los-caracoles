@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "nombre": "Rock Clásico",
+    "canciones": [
+      "Bohemian Rhapsody",
+      "Stairway to Heaven",
+      "Hotel California",
+      "Sweet Child O' Mine",
+      "Smells Like Teen Spirit",
+      "Hey Jude",
+      "Imagine",
+      "Born to Run",
+      "Purple Haze",
+      "Comfortably Numb",
+      "Dream On",
+      "Free Bird",
+      "Kashmir",
+      "Black Dog",
+      "Smoke on the Water",
+      "We Will Rock You",
+      "Don't Stop Believin'",
+      "Livin' on a Prayer",
+      "Paradise City",
+      "Back in Black"
+    ]
+  },
+  {
+    "id": 2,
+    "nombre": "Pop Latino",
+    "canciones": [
+      "Bailando",
+      "Despacito",
+      "La Camisa Negra",
+      "Vivir Mi Vida",
+      "Danza Kuduro",
+      "El Perdón",
+      "Chantaje",
+      "La Bicicleta",
+      "Felices los 4",
+      "Mi Gente",
+      "X",
+      "Taki Taki",
+      "Con Calma",
+      "China",
+      "Hawái",
+      "Dakiti",
+      "Todo de Ti",
+      "Pepas",
+      "Envolver",
+      "La Bachata"
+    ]
+  },
+  {
+    "id": 3,
+    "nombre": "Reggaeton",
+    "canciones": [
+      "Gasolina",
+      "Dile",
+      "Lo Que Pasó, Pasó",
+      "Yo Voy",
+      "Mayor Que Yo",
+      "Rompe",
+      "Impacto",
+      "Ella Me Levantó",
+      "Limbo",
+      "Pasarela",
+      "6 AM",
+      "Ginza",
+      "El Amante",
+      "Travesuras",
+      "Propuesta Indecente",
+      "Shaky Shaky",
+      "Échame La Culpa",
+      "Calma",
+      "Que Tire Pa Lante",
+      "Safaera"
+    ]
+  }
+]
